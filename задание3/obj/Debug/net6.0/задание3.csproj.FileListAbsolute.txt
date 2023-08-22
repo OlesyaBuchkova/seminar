@@ -1,0 +1,15 @@
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\задание3\bin\Debug\net6.0\задание3.exe
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\задание3\bin\Debug\net6.0\задание3.deps.json
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\задание3\bin\Debug\net6.0\задание3.runtimeconfig.json
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\задание3\bin\Debug\net6.0\задание3.dll
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\задание3\bin\Debug\net6.0\задание3.pdb
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\задание3\obj\Debug\net6.0\задание3.csproj.AssemblyReference.cache
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\задание3\obj\Debug\net6.0\задание3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\задание3\obj\Debug\net6.0\задание3.AssemblyInfoInputs.cache
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\задание3\obj\Debug\net6.0\задание3.AssemblyInfo.cs
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\задание3\obj\Debug\net6.0\задание3.csproj.CoreCompileInputs.cache
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\задание3\obj\Debug\net6.0\задание3.dll
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\задание3\obj\Debug\net6.0\refint\задание3.dll
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\задание3\obj\Debug\net6.0\задание3.pdb
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\задание3\obj\Debug\net6.0\задание3.genruntimeconfig.cache
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\задание3\obj\Debug\net6.0\ref\задание3.dll
