@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nearo\\OneDrive\\Рабочий стол\\семинар3\\4\\задание2\\задание2.csproj": {}
+    "c:\\Users\\nearo\\OneDrive\\Рабочий стол\\семинар3\\4\\задание2\\задание2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nearo\\OneDrive\\Рабочий стол\\семинар3\\4\\задание2\\задание2.csproj": {
+    "c:\\Users\\nearo\\OneDrive\\Рабочий стол\\семинар3\\4\\задание2\\задание2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nearo\\OneDrive\\Рабочий стол\\семинар3\\4\\задание2\\задание2.csproj",
+        "projectUniqueName": "c:\\Users\\nearo\\OneDrive\\Рабочий стол\\семинар3\\4\\задание2\\задание2.csproj",
         "projectName": "задание2",
-        "projectPath": "C:\\Users\\nearo\\OneDrive\\Рабочий стол\\семинар3\\4\\задание2\\задание2.csproj",
+        "projectPath": "c:\\Users\\nearo\\OneDrive\\Рабочий стол\\семинар3\\4\\задание2\\задание2.csproj",
         "packagesPath": "C:\\Users\\nearo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nearo\\OneDrive\\Рабочий стол\\семинар3\\4\\задание2\\obj\\",
+        "outputPath": "c:\\Users\\nearo\\OneDrive\\Рабочий стол\\семинар3\\4\\задание2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nearo\\AppData\\Roaming\\NuGet\\NuGet.Config"

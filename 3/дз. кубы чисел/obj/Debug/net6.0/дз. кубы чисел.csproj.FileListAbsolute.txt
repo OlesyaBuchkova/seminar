@@ -1,0 +1,15 @@
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. кубы чисел\bin\Debug\net6.0\дз. кубы чисел.exe
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. кубы чисел\bin\Debug\net6.0\дз. кубы чисел.deps.json
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. кубы чисел\bin\Debug\net6.0\дз. кубы чисел.runtimeconfig.json
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. кубы чисел\bin\Debug\net6.0\дз. кубы чисел.dll
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. кубы чисел\bin\Debug\net6.0\дз. кубы чисел.pdb
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. кубы чисел\obj\Debug\net6.0\дз. кубы чисел.csproj.AssemblyReference.cache
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. кубы чисел\obj\Debug\net6.0\дз. кубы чисел.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. кубы чисел\obj\Debug\net6.0\дз. кубы чисел.AssemblyInfoInputs.cache
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. кубы чисел\obj\Debug\net6.0\дз. кубы чисел.AssemblyInfo.cs
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. кубы чисел\obj\Debug\net6.0\дз. кубы чисел.csproj.CoreCompileInputs.cache
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. кубы чисел\obj\Debug\net6.0\дз. кубы чисел.dll
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. кубы чисел\obj\Debug\net6.0\refint\дз. кубы чисел.dll
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. кубы чисел\obj\Debug\net6.0\дз. кубы чисел.pdb
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. кубы чисел\obj\Debug\net6.0\дз. кубы чисел.genruntimeconfig.cache
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. кубы чисел\obj\Debug\net6.0\ref\дз. кубы чисел.dll

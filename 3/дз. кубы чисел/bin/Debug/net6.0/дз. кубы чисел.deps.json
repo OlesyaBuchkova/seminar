@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "дз. кубы чисел/1.0.0": {
+        "runtime": {
+          "дз. кубы чисел.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "дз. кубы чисел/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. координаты в 3д\bin\Debug\net6.0\дз. координаты в 3д.exe
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. координаты в 3д\bin\Debug\net6.0\дз. координаты в 3д.deps.json
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. координаты в 3д\bin\Debug\net6.0\дз. координаты в 3д.runtimeconfig.json
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. координаты в 3д\bin\Debug\net6.0\дз. координаты в 3д.dll
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. координаты в 3д\bin\Debug\net6.0\дз. координаты в 3д.pdb
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. координаты в 3д\obj\Debug\net6.0\дз. координаты в 3д.csproj.AssemblyReference.cache
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. координаты в 3д\obj\Debug\net6.0\дз. координаты в 3д.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. координаты в 3д\obj\Debug\net6.0\дз. координаты в 3д.AssemblyInfoInputs.cache
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. координаты в 3д\obj\Debug\net6.0\дз. координаты в 3д.AssemblyInfo.cs
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. координаты в 3д\obj\Debug\net6.0\дз. координаты в 3д.csproj.CoreCompileInputs.cache
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. координаты в 3д\obj\Debug\net6.0\дз. координаты в 3д.dll
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. координаты в 3д\obj\Debug\net6.0\refint\дз. координаты в 3д.dll
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. координаты в 3д\obj\Debug\net6.0\дз. координаты в 3д.pdb
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. координаты в 3д\obj\Debug\net6.0\дз. координаты в 3д.genruntimeconfig.cache
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. координаты в 3д\obj\Debug\net6.0\ref\дз. координаты в 3д.dll

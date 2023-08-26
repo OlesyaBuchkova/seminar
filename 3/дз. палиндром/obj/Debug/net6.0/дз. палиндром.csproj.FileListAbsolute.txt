@@ -1,0 +1,5 @@
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. палиндром\obj\Debug\net6.0\дз. палиндром.csproj.AssemblyReference.cache
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. палиндром\obj\Debug\net6.0\дз. палиндром.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. палиндром\obj\Debug\net6.0\дз. палиндром.AssemblyInfoInputs.cache
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. палиндром\obj\Debug\net6.0\дз. палиндром.AssemblyInfo.cs
+C:\Users\nearo\OneDrive\Рабочий стол\семинар3\3\дз. палиндром\obj\Debug\net6.0\дз. палиндром.csproj.CoreCompileInputs.cache
